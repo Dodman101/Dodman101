@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dodman101
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Ethical Hacking
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Cyber Security & Ethical Hacking
+- 🌱 I’m currently learning 100 Days of Code
+- 💞️ I’m looking to collaborate on python projects.
 - 📫 You can reach me via email at http://scr.im/dodman
 
 <!---
